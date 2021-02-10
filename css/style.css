@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+h1, h2, h3{
+    font-family: 'Nanum Gothic', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    background-color: #353132;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+
+main{
+    max-width: 1100px;
+    text-align: left;
+    padding: 20px;
+}
+
+
+
+
+h2{
+    font-size: 40px;
+    
+}
+
+h3{
+    font-size: 30px;
+    padding: 40px;
+    letter-spacing: 4px;
+}
+
+p{
+    color: white;
+    font-family: 'Crimson Pro', serif;
+    font-size: 20px;
+    line-height: 1.25;
+    clear: left;
+}
+
+p img{
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+    max-width: 300px;
+    max-height: 400px;
+    margin-bottom: 30px;
+}
+
+div{
+    clear: left;
+}
