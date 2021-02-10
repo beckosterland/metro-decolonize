@@ -59,3 +59,12 @@ p img{
 div{
     clear: left;
 }
+
+h2 img{
+    max-width: 50px;
+}
+
+h3 img{
+    max-width: 35px;
+    padding-right: 20px;
+}
