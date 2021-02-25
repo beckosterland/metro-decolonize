@@ -7,7 +7,7 @@ body{
     background-color: black;
 }
 
-h1, h2, h3{
+h1, h2, h3, h4{
     font-family: 'Nanum Gothic', sans-serif;
     color: white;
     text-align: center;
@@ -39,7 +39,7 @@ h2{
 
 h3{
     font-size: 30px;
-    padding: 40px;
+    padding: 20px;
     letter-spacing: 4px;
 }
 
@@ -78,7 +78,28 @@ h3 a{
     padding-left: 20px;
 }
 
+h4{
+    color: white;
+    padding-top: 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+div a{
+    color: white;
+}
+
+p a{
+    color: white;
+}
+
 a:visited{
     color: white;
+}
+
+p a:visited{
+    color: white;
+
 }
 
