@@ -49,6 +49,7 @@ p{
     font-size: 20px;
     line-height: 1.25;
     clear: left;
+    max-width: fit-content;
 }
 
 p img{
@@ -88,6 +89,7 @@ h4{
 
 div a{
     color: white;
+
 }
 
 p a{
@@ -103,3 +105,7 @@ p a:visited{
 
 }
 
+.center {
+    display: block;
+    padding-left: 155px;
+  }
