@@ -109,3 +109,9 @@ p a:visited{
     display: block;
     padding-left: 155px;
   }
+
+ul{
+    list-style-type: circle;
+    font-family: 'Crimson Pro', serif;
+    color: white;
+}
